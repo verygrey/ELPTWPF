@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Filters.AbstractFilter">
+    <Position X="3.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIIAAAgAAAAAQAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoaderLibrary.TypeIncorrectException">
+    <Position X="5.5" Y="3.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Filter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoaderLibrary.Filter">
+    <Position X="7.5" Y="0.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAACgAAAAIAAAECgACEIQAgAAEAAAACAAAAAAAAAI=</HashCode>
+      <FileName>Filter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoaderLibrary.FilterStorage">
+    <Position X="5.25" Y="0.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="LoaderLibrary.FilterStorage.Error" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>FilterStorage.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAgBAAAAEwBAAFKAAAABSEAABAAACAQAAAAAAAAII=</HashCode>
+      <FileName>FilterStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoaderLibrary.Filtration">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAIAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAIAAAI=</HashCode>
+      <FileName>Filtration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="LoaderLibrary.coord">
+    <Position X="7.5" Y="5.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAICAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FilterStorage.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

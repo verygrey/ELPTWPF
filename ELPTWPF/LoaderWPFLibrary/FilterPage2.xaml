@@ -1,0 +1,17 @@
+﻿<UserControl x:Class="LoaderWPFLibrary.FilterPage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:LoaderWPFLibrary"
+             mc:Ignorable="d" 
+             d:DesignHeight="500" d:DesignWidth="300">
+    <Grid x:Name="All">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="14*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <StackPanel x:Name="StackParams"/>
+        <Button x:Name="ButtonFilter" Content="Button"  HorizontalAlignment="Stretch" Grid.Row="1" VerticalAlignment="Stretch" MinHeight="20" MinWidth="60" Click="ButtonFilter_Click"/>
+    </Grid>
+</UserControl>

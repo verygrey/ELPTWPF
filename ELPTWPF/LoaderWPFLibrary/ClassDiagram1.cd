@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LoaderWPFLibrary.ParamBox">
+    <Position X="2.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAQAAAABAIAAAACAAAAAAAA=</HashCode>
+      <FileName>FilterPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoaderWPFLibrary.FilterPage">
+    <Position X="5.5" Y="0.5" Width="2" />
+    <NestedTypes>
+      <Delegate Name="LoaderWPFLibrary.FilterPage.AddingViewHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>FilterPage.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAIAAQBAQIAAQEABAAEIMAgMAAAEAAAAIAAIAQAAQoA=</HashCode>
+      <FileName>FilterPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoaderWPFLibrary.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoaderWPFLibrary.Properties.Settings" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
